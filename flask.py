@@ -9,6 +9,7 @@ from flask import request
 from flask.ext.jsonpify import jsonify
 #https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ/videos
 #https://benjaminjchapman.wordpress.com/tag/wtforms/
+#http://stackoverflow.com/questions/24735810/python-flask-get-json-data-to-display
 
 #https://www.youtube.com/watch?v=FEtJgtmogSY --how to do queries
 
