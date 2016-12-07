@@ -16,6 +16,9 @@ from flask.ext.jsonpify import jsonify
 #http://formvalidation.io/examples/showing-messages-modal/ -- modal messages
 
 #http://flask-wtf.readthedocs.io/en/stable/csrf.html  - information about csrfProtection
+#https://github.com/pigeonflight/Recipe-Website-Tutorial/blob/master/flaskRecipeDocs/tutorials/jquery-and-ajax.rst
+
+
 application = Flask(__name__)
 
 application.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:password@localhost/mydb'
